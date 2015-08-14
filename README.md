@@ -1,6 +1,6 @@
 # Company Challenges
 
-Read an [overview] of Company Challenges (http://tech.cornell.edu/education/practice/projects/company-challenges/challenges-overview/) on the Cornell Tech website.
+Read an [overview](http://tech.cornell.edu/education/practice/projects/company-challenges/challenges-overview/) of Company Challenges  on the Cornell Tech website.
 
 Schedule:
 
