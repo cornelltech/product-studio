@@ -23,9 +23,9 @@ Schedule:
 * [Session 14: Reflect](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-14-reflect) (Dec 1)
  
 Class structure (default, with a few exceptions):
-* 3p–3:30, Lecture (30m)
-* 3:30–5:00, Scrum (including activity) (90m)
-* 5:00–6:00, Studio time and practitioner office hours
+* 3p–3:30p, Lecture (30m)
+* 3:30p–5p, Scrum (including activity) (90m)
+* 5p–6p, Studio time and practitioner office hours
 * Scrums meet in Fozzie, Big Red, Grizzly, Touchdown, and the Studio
 
 Refer to the [Company Challenges wiki] (https://github.com/cornelltech/company-challenges/wiki) for more information.
