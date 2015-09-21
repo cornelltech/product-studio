@@ -7,7 +7,7 @@ Schedule:
 * [Session 1: Intro and Curate](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-1-intro-and-curate) (Aug 25)
 * [Session 2: Unpack](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-2-unpack) (Sep 1)
 * [Session 3: Sketch](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-3-sketch) (Sep 8)
-* [Session 4: Decide and Prototype](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-4-pretotype) (Sep 15)
+* [Session 4: Pretotype](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-4-pretotype) (Sep 15)
 * [Session 5: Test](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-5-test) (Sep 22)
 * [Sprint 1: “Here's what we're planning to do”](https://github.com/cornelltech/company-challenges/wiki/Syllabus#sprint-1-heres-what-were-planning-to-do) (Sep 24–25)
 * [Session 6: Rapidly Develop](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-6-rapidly-develop) (Sep 29)
