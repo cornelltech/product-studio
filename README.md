@@ -15,7 +15,7 @@ Schedule:
 * [Session 8: Focus](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-8-focus) (Oct 20)
 * [Sprint 2: “Here's what we're doing”](https://github.com/cornelltech/company-challenges/wiki/Syllabus#sprint-2-heres-what-were-doing) (Oct 22–23)
 * [Session 9: Strategize](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-9-strategize) (Oct 27)
-* [Session 10: Execute](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-10-execute) (Nov 3)
+* [Session 10: Rapidly Improve](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-10-rapidly-improve) (Nov 3)
 * [Session 11: Complete](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-11-complete) (Nov 10)
 * [Session 12: Present Better!](https://github.com/cornelltech/company-challenges/wiki/Syllabus#session-12-present-better) (Nov 17)
 * [Sprint 3: “Here's what we did”](https://github.com/cornelltech/company-challenges/wiki/Syllabus#sprint-3-heres-what-we-did) (Nov 20–21)
