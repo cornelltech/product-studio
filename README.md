@@ -30,5 +30,6 @@ Course wiki:
 * [Grading](https://github.com/cornelltech/product-studio/wiki/Grading) rubric for this course
 * [Tips](https://github.com/cornelltech/product-studio/wiki/Tips) on how to do well in this course
 * [Professionalism](https://github.com/cornelltech/product-studio/wiki/Tips), i.e., how to behave pro-style in this course
+* [Policies](https://github.com/cornelltech/product-studio/wiki/Policies) on attendance, tardiness, and devices
 
 Instructors: Greg Pass & Leland Rechis
