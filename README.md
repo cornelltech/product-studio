@@ -27,5 +27,8 @@ See the [complete schedule](https://docs.google.com/spreadsheets/d/17SZoMZFM6Dol
 Course wiki:
 
 * [Syllabus](https://github.com/cornelltech/product-studio/wiki/Syllabus) for this course
+* [Grading](https://github.com/cornelltech/product-studio/wiki/Grading) rubric for this course
+* [Tips](https://github.com/cornelltech/product-studio/wiki/Tips) on how to do well in this course
+* [Professionalism](https://github.com/cornelltech/product-studio/wiki/Tips), i.e., how to behave pro-style in this course
 
 Instructors: Greg Pass & Leland Rechis
