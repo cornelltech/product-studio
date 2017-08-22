@@ -33,5 +33,6 @@ Course wiki:
 * [Professionalism](https://github.com/cornelltech/studio/wiki/Professionalism), i.e., how to behave pro-style in this course
 * [Policies](https://github.com/cornelltech/product-studio/wiki/Policies) on attendance, tardiness, and devices
 
-Instructors: Greg Pass & Leland Rechis  
+Head of Product Studio: Leland Rechis
+Instructors: Michael Corey, Debrah Estrin, Karan Girotra, J Hogg
 Studio Director: J McLoughlin
