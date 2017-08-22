@@ -35,4 +35,4 @@ Course wiki:
 
 Head of Product Studio: Leland Rechis
 Instructors: Michael Corey, Debrah Estrin, Karan Girotra, J Hogg
-Studio Director: J McLoughlin
+
