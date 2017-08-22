@@ -1,4 +1,4 @@
-# Product Studio (CS 5999)
+# Product Studio (TECH 5900)
 
 Read an [overview](http://tech.cornell.edu/education/practice/projects/company-challenges/challenges-overview/) of Product Studio on the Cornell Tech website.
 
