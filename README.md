@@ -34,5 +34,6 @@ Course wiki:
 * [Policies](https://github.com/cornelltech/product-studio/wiki/Policies) on attendance, tardiness, and devices
 
 Head of Product Studio: Leland Rechis
+
 Instructors: Michael Corey, Debrah Estrin, Karan Girotra, J. Hogg
 
