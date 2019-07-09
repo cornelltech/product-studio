@@ -7,7 +7,16 @@ Every fall in the Studio, leading startups, companies, and organizations pose pr
 
 The Studio team and faculty will spend the next two months working with more than 200 companies to solicit “How might we…?” questions for your Product Challenge in Product Studio. 
 
-# What can I expect at Orientation?
+# How it works...
+
+1. Companies submit a “How might we..?” challenge and identify a Company Advisor to work with a student team to ensure they have whatever access or information is required to respond to the challenge.
+2. The Studio team spends the summer reviewing all challenges and works with companies to refine the challenge if needed.
+3. During orientation students receive a list of all of the vetted challenges and rank their top 10 in order of preference. 
+4. Dreamteam, a matching algorithm developed at Cornell Tech, is used to form teams of 4-5 students and connect them to challenges, optimizing for student interests and multidisciplinary teams. Students will find out their matches on September 3rd. 
+5. Teams conduct user research and develop and test prototypes of a new product, meeting with the Company Advisor at least four to five times during the semester.
+6. Teams deliver a final presentation and demo to their companies.
+
+# What can I expect at orientation?
 
 MONDAY, AUGUST 26TH:
 
