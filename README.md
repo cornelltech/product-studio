@@ -1,7 +1,7 @@
 # Product Studio (Fall 2019)
 
 # What is the Product Challenge?
-Every fall in the Studio, leading startups, companies, and organizations pose product challenges to Cornell Tech students. These challenges, in the form of a "How might we..?" question, go beyond a problem to solve or work to be done. Students across seven Master’s programs work in cross-disciplinary teams, conduct user research, create a strategy, and develop and test prototypes of a new product or service that responds to the challenge.
+Every fall in the Studio, leading startups, companies, and organizations pose product challenges to Cornell Tech students. These challenges, in the form of a "How might we..?" question, go beyond a problem to solve or work to be done. Students across seven Master’s programs work in multidisciplinary teams, conduct user research, create a strategy, and develop and test prototypes of a new product or service that responds to the challenge.
 
 # What's happening this summer?
 
