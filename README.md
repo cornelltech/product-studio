@@ -65,7 +65,7 @@ A: We can only guarantee that you will match with one of your top ten choices. I
 
 Q: How does Dreamteam work?
 ...
-A:  The Dreamteam algorithm operates under a set number of constraints in order to create multidisciplinary teams that are capable of building a technical product such as "no more than 2 MBAs, at least 2 technical students (determined from a tech survey), no more than 1 Parsons student, no more than 4 students per team unless there is a Parsons student, etc". The algorithm does take student preferences into account. The objective is to form teams and make the penalty cost of each student as low as possible. A penalty cost of 0 would mean someone got their top choice. The higher the cost, the worse the outcome.
+A:  The Dreamteam algorithm operates under a set number of constraints in order to create multidisciplinary teams that are capable of building a technical product. Some of the contraints might be "no more than 2 MBAs, at least 2 technical students (determined from a tech survey), no more than 1 Parsons student, no more than 4 students per team unless there is a Parsons student, etc". The algorithm does take student preferences into account. The objective is to form teams and make the penalty cost of each student as low as possible. A penalty cost of 0 would mean someone got their top choice. The higher the cost, the worse the outcome. The teams that are formed represent the best possible outcome for the entire class. This means that if you ask to switch your team (note - the answer will always be no), you are asking us to make the outcome for your entire class less optimal.
 
 Q: Can I change my ranking after the deadline for submission?
 ...
