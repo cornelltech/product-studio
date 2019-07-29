@@ -11,41 +11,49 @@ The Studio team and faculty will spend the next two months working with more tha
 
 1. Companies submit a “How might we..?” challenge and identify a Company Advisor to work with a student team to ensure they have whatever access or information is required to respond to the challenge.
 2. The Studio team spends the summer reviewing all challenges and works with companies to refine the challenge if needed.
-3. During orientation students receive a list of all of the vetted challenges and rank their top 10 in order of preference. 
-4. Dreamteam, a matching algorithm developed at Cornell Tech, is used to form teams of 4-5 students and connect them to challenges, optimizing for student interests and multidisciplinary teams. Students will find out their matches on September 3rd. 
+3. On August 12th students will receive a list of all of the vetted challenges and a survey to rank their top 10 in order of preference. 
+4. Dreamteam, a matching algorithm developed at Cornell Tech, is used to form teams of 4-5 students and connect them to challenges, optimizing for student interests and multidisciplinary teams. Students will find out their teams on or before August 25th. Challenges will be announced on August 27th.
 5. Teams conduct user research and develop and test prototypes of a new product, meeting with the Company Advisor at least four to five times during the semester.
 6. Teams deliver a final presentation and demo to their companies.
+
+# What can I expect prior to orientation?
+
+MONDAY, AUGUST 12TH:
+
+You will receive an email from Leandra with a PDF of all of the Product Challenges and a link to the rankings survey. You should spend some time reading over all of the challenges and think about which ones are interesting to you and why.
+
+TUESDAY, AUGUST 13TH - FRIDAY, AUGUST 16TH:
+
+Virtual office hours will take place to address any questions or concerns you have. A zoom link will be provided in the email you receive on August 12th. You can join any of the following sessions at any point to ask a quick question or listen to your classmates' questions. 
+- Tuesday, August 13th from 10am-12pm and 3pm-4pm
+- Wednesday, August 14th from 10am-11am and 4pm-5pm
+- Friday, August 16th from 10am-12pm and 2:15-4:15pm
+
+MONDAY, AUGUST 19TH:
+
+Product challenge ranking surveys are due by 11:59pm EST. 
+
+TUESDAY, AUGUST 20TH - FRIDAY, AUGUST 23RD
+
+The Studio team will run Dreamteam, an algorithm built by Cornell Tech alumni, that will create the Product Challenge teams that you’ll work on for the fall semester and match you with a challenge. The algorithm will take into account your background, skills, and program, optimizing for your preferences and multi-disciplinary teams. Teams will consist of 5-6 students.
+
+YOU WILL FIND OUT YOUR TEAMS ON OR BEFORE AUGUST 25TH.
 
 # What can I expect at orientation?
 
 MONDAY, AUGUST 26TH:
 
-You’ll get a brief introduction to the Studio team and learn all about the Studio code and culture. 
-That evening you will receive an email with a list of all of the challenges to consider. You should spend some time reading over all of the challenges and think about which ones are interesting to you and why. The companies who submitted the challenges will not be listed on this initial list of challenges. We want you to consider the challenge itself, and the impact you could have by working on that challenge.
-
-We know you’ll have questions. Don’t worry, we’ll go over everything on Tuesday during the Studio activity and we hope to answer many of your open questions at that time. There will also be plenty of time for Q&A! 
+You’ll get a brief introduction to the Studio team and how Product Studio works. Immediately following the introduction you'll spend time getting to know your team through team building and get-to-know-you activities. It will be really fun, we promise!
 
 TUESDAY, AUGUST 27TH: 
 
-You will participate in a fun and immersive Studio exercise.
+We'll do a deeper dive into the full Studio curriculum and you'll have time to work with your team on establishing norms and best practices for working together.
 
-That evening, you will receive a survey asking you to rank your top ten challenges in order of preference. Participation in this survey is required. The Product Challenge Survey will be due on Thursday, 8/29 by 11:59pm.
-
-At this point, the survey will list the companies that posed each challenge. While this may change how you choose to rank the challenges, we hope that the content of the challenge itself will be the primary factor in your decision-making. 
+At the end of the day you'll participate in a team challenge and we'll reveal which challenge your team matched with!
 
 THURSDAY, AUGUST 29TH:
 
-This is the first day of Product Studio: Introduction / Tackling Design Problems. The Product Challenge Survey is due by 11:59pm. Students who do not turn in surveys will be randomly matched to a team. There will be no opportunity to change your selections once you have submitted your survey.
-
-FRIDAY AUGUST 30th - MONDAY SEPTEMBER 2ND:
-
-The Studio team will run Dreamteam, an algorithm built by Cornell Tech alumni, that will create the Product Challenge teams that you’ll work on for the fall semester and match you with a challenge. The algorithm will take into account your background, skills, and program, optimizing for your preferences and multi-disciplinary teams. Teams will consist of 4-5 students.
-
-TUESDAY, SEPTEMBER 3RD:
-
-You will meet your challenge teams and find out which challenge you matched with!
-
-Companies will be informed whether or not their challenge matched to a student team.
+This is the first day of Product Studio: Introduction / Tackling Design Problems. 
 
 FRIDAY, SEPTEMBER 6TH:
 
