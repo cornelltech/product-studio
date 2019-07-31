@@ -24,10 +24,12 @@ You will receive an email from Leandra with a PDF of all of the Product Challeng
 
 TUESDAY, AUGUST 13TH - FRIDAY, AUGUST 16TH:
 
-Virtual office hours will take place to address any questions or concerns you have. A zoom link will be provided in the email you receive on August 12th. You can join any of the following sessions at any point to ask a quick question or listen to your classmates' questions. 
+Virtual office hours will take place to address any questions or concerns you have. You can join any of the following sessions at any point to ask a quick question or listen to your classmates' questions. 
 - Tuesday, August 13th from 10am-12pm and 3pm-4pm
 - Wednesday, August 14th from 10am-11am and 4pm-5pm
 - Friday, August 16th from 10am-12pm and 2:15-4:15pm
+
+ZOOM LINK: https://cornell.zoom.us/j/887682412
 
 MONDAY, AUGUST 19TH:
 
